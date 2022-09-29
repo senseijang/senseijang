@@ -10,7 +10,7 @@ I've really been enjoying doing front-end work as of recently, working with Reac
 Always going above and beyond people's expectations brings me so much joy and I hope to continue this trend throughout my career.
 Never skipping a line of code and a meticulous attitude towards programming has given me great success in the small projects I've made.
 
-Relevant Coursework: Discrete Math, Calculus I & II, Linear Algebra, Data Structures and Algoritms  
+Relevant Coursework: Discrete Math, Calculus I & II, Linear Algebra, Data Structures and Algorithms  
 Spring '23: Architecture of Computers, Mechanics, Principles of Software Design
 # Projects
 * [JonfBot](https://github.com/senseijang/jonfBot): a bot made using Discord.py to get random quotes and images from an API.
