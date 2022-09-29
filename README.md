@@ -9,12 +9,13 @@ Always going above and beyond people's expectations brings me so much joy and I 
 Never skipping a line of code and a meticulous attitude towards programming has given me great success in the small projects I've made.
 
 # Projects
-* JonfBot: a bot made using Discord.py to get random quotes and images from an API.
-* Minecraft Potion Brewer: a webapp that simulates Minecraft potion brewing using the Bottle.py framework.
-* CSCI-N341 Course Page: A page containing subprojects that use HTML, CSS, JS, and jQuery for user interactivity.
-* N-Queens: a text-based C++ implementation of the N-Queens problem using a stack and associated logic.
-* Stock Span: a C++ implementation of the stock span problem comparing a brute force approach to a stack approach.
+* [JonfBot](https://github.com/senseijang/jonfBot): a bot made using Discord.py to get random quotes and images from an API.
+* [Minecraft Potion Brewer](https://github.com/senseijang/minecraftPotionBrew): a webapp that simulates Minecraft potion brewing using the Bottle.py framework.
+* [CSCI-N341 Course Page](https://github.com/senseijang/CSCI-n341-Course-Page): A page containing subprojects that use HTML, CSS, JS, and jQuery for user interactivity.
+* [N-Queens](https://github.com/senseijang/nQueens): a text-based C++ implementation of the N-Queens problem using a stack and associated logic.
+* [Merge Sort](https://github.com/senseijang/mergeSort): The famous merge sort algorithm implemented in Python and Perl to compare the syntax and semantics of each language.
+* [Stock Span](https://github.com/senseijang/stockSpan): a C++ implementation of the stock span problem comparing a brute force approach to a stack approach.
+* and more to come...
 
 ### Contact Info
-📫 Feel free to contact me at sjang0213@gmail.com
-😁 Or connect with me on [Linkedin](https://www.linkedin.com/in/sunwoojang/)!
+📫 Feel free to contact me at sjang0213@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/sunwoojang/)! 😁
