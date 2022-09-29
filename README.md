@@ -1,3 +1,5 @@
+![Banner with the name of Andy Jang with his contact info](https://raw.githubusercontent.com/senseijang/senseijang/master/banner.png)
+
 # Bio
 👋 Hi, I’m Sunwoo "Andy" Jang, a sophomore pursuing a B.S. in Computer Science @ IUPUI.
 I've been building small websites, bots, and applications for almost 6 years and have fallen in love with coding!
@@ -17,5 +19,9 @@ Never skipping a line of code and a meticulous attitude towards programming has 
 * [Stock Span](https://github.com/senseijang/stockSpan): a C++ implementation of the stock span problem comparing a brute force approach to a stack approach.
 * and more to come...
 
-### Contact Info
-📫 Feel free to contact me at sjang0213@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/sunwoojang/)! 😁
+## Connect with Me
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sunwoojang">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
