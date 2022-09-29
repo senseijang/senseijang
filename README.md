@@ -1,4 +1,4 @@
-![Banner with the name of Andy Jang with his contact info](https://raw.githubusercontent.com/senseijang/senseijang/master/banner.png)
+![Banner with the name of Andy Jang with his contact info](https://raw.githubusercontent.com/senseijang/senseijang/master/banner_final.png)
 
 # Bio
 👋 Hi, I’m Sunwoo "Andy" Jang, a sophomore pursuing a B.S. in Computer Science @ IUPUI.
