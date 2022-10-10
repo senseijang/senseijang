@@ -5,8 +5,6 @@
 I've been building small websites, bots, and applications for almost 6 years and have fallen in love with coding!
 
 I'm most proficient in C++, Python, and JavaScript, but also am familiar with other languages as well.
-I've really been enjoying doing front-end work as of recently, working with React.js, Tailwind, and MUI X just to name a few.
-
 Always going above and beyond people's expectations brings me so much joy and I hope to continue this trend throughout my career.
 Never skipping a line of code and a meticulous attitude towards programming has given me great success in the small projects I've made.
 
@@ -20,6 +18,7 @@ Spring '23: Architecture of Computers, Mechanics, Principles of Software Design
 * [N-Queens](https://github.com/senseijang/nQueens): a text-based C++ implementation of the N-Queens problem using a stack and associated logic.
 * [Merge Sort](https://github.com/senseijang/mergeSort): The famous merge sort algorithm implemented in Python and Perl to compare the syntax and semantics of each language.
 * [Stock Span](https://github.com/senseijang/stockSpan): a C++ implementation of the stock span problem comparing a brute force approach to a stack approach.
+* [Binary Search Tree](https://github.com/senseijang/Binary-Search-Tree): a C++ binary search tree used to find a specified k-th smallest number.
 * and more to come...
 
 ## Connect with Me
