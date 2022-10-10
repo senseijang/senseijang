@@ -18,7 +18,7 @@ Spring '23: Architecture of Computers, Mechanics, Principles of Software Design
 * [N-Queens](https://github.com/senseijang/nQueens): a text-based C++ implementation of the N-Queens problem using a stack and associated logic.
 * [Merge Sort](https://github.com/senseijang/mergeSort): The famous merge sort algorithm implemented in Python and Perl to compare the syntax and semantics of each language.
 * [Stock Span](https://github.com/senseijang/stockSpan): a C++ implementation of the stock span problem comparing a brute force approach to a stack approach.
-* [Binary Search Tree](https://github.com/senseijang/Binary-Search-Tree): a C++ binary search tree used to find a specified k-th smallest number.
+* [Binary Search Tree](https://github.com/senseijang/Binary-Search-Tree): a C++ binary search tree used to find a specified k-th smallest number using balancing principles and recursion.
 * and more to come...
 
 ## Connect with Me
